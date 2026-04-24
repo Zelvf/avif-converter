@@ -1,0 +1,6 @@
+customtkinter
+Pillow
+pillow-avif-plugin
+fastapi
+python-multipart
+uvicorn
